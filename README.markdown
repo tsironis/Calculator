@@ -14,3 +14,4 @@ At this point, the jQuery simply handles the event of clicking the buttons in th
 ##Bugs/Future features
 1. Somewhat dirty/non-optimized code
 2. Calculate function will actually work in the future
+3. Read some badass comments in my code
